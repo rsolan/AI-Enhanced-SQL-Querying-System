@@ -1,7 +1,9 @@
 # AI-Enhanced-SQL-Querying-System
 Langchain, OpenAI GPT-3.5-turbo, SQLDatabaseToolkit, Flask framework
 
-## Project Description:Developed a Flask-based web application that integrates AI-driven query handling with SQL databases using the Langchain framework. The system enables users to send natural language queries via an API endpoint, which are processed by an AI model (OpenAI's GPT-3.5) to retrieve data from a MySQL database. The application leverages the Langchain toolkit for SQL database interaction, providing an intelligent and flexible solution for querying complex database structures.
+## Project Description: 
+
+Developed a Flask-based web application that integrates AI-driven query handling with SQL databases using the Langchain framework. The system enables users to send natural language queries via an API endpoint, which are processed by an AI model (OpenAI's GPT-3.5) to retrieve data from a MySQL database. The application leverages the Langchain toolkit for SQL database interaction, providing an intelligent and flexible solution for querying complex database structures.
 
 ## Key Features:
 
